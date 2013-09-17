@@ -1,4 +1,6 @@
 # Intermediate source control in Xcode 5 
-## Sample Project - ControllingSource
+## Challenges - ControllingSource
 -------------------------------------
-This is the sample project for the __Intermediate source control in Xcode 5__ chapter from iOS 7 by Tutorials, available at [Ray Wenderlich](http://www.raywenderlich.com/).
+This is the final project, with the challenges included, for the __Intermediate source control in Xcode 5__ chapter from iOS 7 by Tutorials, available at [Ray Wenderlich](http://www.raywenderlich.com/).
+
+### Congratulations on making it to the end of the chapter and doing all of the challenges and please visit the website for the latest iOS tutorials and training. Thank you for your support!
