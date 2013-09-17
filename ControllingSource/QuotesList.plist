@@ -98,5 +98,35 @@
 		<key>famousQuote</key>
 		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
 	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Michael Jordan</string>
+		<key>famousQuote</key>
+		<string>&quot;I&apos;ve failed over and over and over again in my life. And that is why I succeed.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Michael Jordan</string>
+		<key>famousQuote</key>
+		<string>&quot;I can accept failure, everyone fails at something. But I can&apos;t accept not trying.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Leonardo Da Vinci</string>
+		<key>famousQuote</key>
+		<string>&quot;For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Leonardo Da Vinci</string>
+		<key>famousQuote</key>
+		<string>&quot;Simplicity is the ultimate sophistication.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Leonardo Da Vinci</string>
+		<key>famousQuote</key>
+		<string>&quot;The greatest deception men suffer is from their own opinions.&quot;</string>
+	</dict>
 </array>
 </plist>
